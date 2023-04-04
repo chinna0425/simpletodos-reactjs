@@ -1,0 +1,25 @@
+.list-styling {
+  list-style-type: none;
+  display: flex;
+  align-items: flex-start;
+}
+.paragraph-style {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  width: 84%;
+}
+.button-style {
+  color: #ff0b37;
+  background-color: #ffffff;
+  border-color: #ff0b37;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 18px;
+  margin-top: 8px;
+}

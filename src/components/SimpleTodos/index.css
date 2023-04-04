@@ -1,0 +1,19 @@
+.background-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  padding: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inner-container {
+  background-color: #ffffff;
+  padding: 40px;
+  width: 70%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
